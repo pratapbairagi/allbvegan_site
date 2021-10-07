@@ -1,0 +1,4 @@
+
+export const MAX_VIEW_PORT = "MAX_VIEW_PORT"
+
+export const ACTUAL_VIEW_PORT = "ACTUAL_VIEW_PORT"
